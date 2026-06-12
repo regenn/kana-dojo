@@ -394,10 +394,10 @@
   "mainColor": "oklch(55.0% 0.035 250.0 / 1)",
   "secondaryColor": "oklch(70.0% 0.015 90.0 / 1)"
 },
-{
-  "id": "tsukimi-night",
-  "backgroundColor": "oklch(14.0% 0.030 260.0 / 1)",
-  "mainColor": "oklch(88.0% 0.050 230.0 / 1)",
-  "secondaryColor": "oklch(68.0% 0.075 260.0 / 1)"
-},
+  {
+    "id": "tsukimi-night",
+    "backgroundColor": "oklch(14.0% 0.030 260.0 / 1)",
+    "mainColor": "oklch(88.0% 0.050 230.0 / 1)",
+    "secondaryColor": "oklch(68.0% 0.075 260.0 / 1)"
+  }
 ]
